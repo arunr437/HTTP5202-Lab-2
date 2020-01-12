@@ -1,0 +1,34 @@
+
+html {
+}
+
+
+.logo {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
+}
+
+
+#contactForm {
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer p{
+    color:rgba(255,255,255,.5)
+}
+
+#email {
+    float: right;
+    width: 80%;
+    text-align: right;
+}
+
+#validationSummary {
+    color: red;
+}
